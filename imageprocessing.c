@@ -1,4 +1,3 @@
-// Ciupitu Bogdan-Costin 312D
 #include <stdio.h>
 #include <stdlib.h>
 #include "imageprocessing.h"

@@ -1,4 +1,3 @@
-// Ciupitu Bogdan-Costin 312CD
 #ifndef IMAGEPROCESSING_H_INCLUDED
 #define IMAGEPROCESSING_H_INCLUDED
 

@@ -1,4 +1,3 @@
-// Ciupitu Bogdan-Costin 312CD
 #ifndef BMP_H_INCLUDED
 #define BMP_H_INCLUDED
 

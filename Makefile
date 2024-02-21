@@ -1,4 +1,3 @@
-# Ciupitu Bogdan-Costin 312CD
 CFLAGS=-Wall -Werror
 
 .PHONY: clean run-main run-interactive

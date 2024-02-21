@@ -1,0 +1,7 @@
+l 298 300 ./images/upb.bmp
+l 38 38 ./images/small.bmp
+ah 0
+ar 1
+ap 0 1 50 50
+s 0 ./tests-out/task7/6.bmp
+e

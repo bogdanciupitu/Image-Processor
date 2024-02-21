@@ -1,0 +1,4 @@
+l 298 300 ./images/upb.bmp
+ac 0 50 100 100 100
+s 0 ./tests-out/task7/3.bmp
+e

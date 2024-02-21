@@ -1,0 +1,64 @@
+l 38 38 ./images/small.bmp
+l 298 300 ./images/upb.bmp
+l 255 400 ./images/awp.bmp
+l 298 450 ./images/precis.bmp
+l 186 500 ./images/f1.bmp
+l 432 400 ./images/dog.bmp
+l 532 400 ./images/cat.bmp
+
+ah 0
+ar 1
+ac 2 100 50 200 200
+ae 3 10 10 255 0 0
+ap 4 5 100 100
+
+cf 3 1 0 -1 0 1 0 -1 0 1
+af 6 0
+cf 5 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+af 5 1
+
+ap 6 1 0 0
+ap 6 2 10 10
+ap 6 3 20 20
+ap 6 4 50 50
+ap 6 5 80 80
+
+l 255 400 ./images/awp.bmp
+ah 7
+ar 7
+ap 7 6 20 20
+
+l 298 450 ./images/precis.bmp
+ae 8 7 7 0 255 0
+ap 8 7 100 100
+
+l 186 500 ./images/f1.bmp
+ac 9 3 3 400 180
+ap 9 8 20 20
+
+l 432 400 ./images/dog.bmp
+cf 3 -1 0 1 0 1 0 1 0 -1
+af 10 0
+ap 10 9 5 5
+
+l 532 400 ./images/cat.bmp
+ar 11
+ap 11 10 5 5
+
+s 10 ./tests-out/task7/14.bmp
+
+df 0
+df 1
+di 0
+di 0
+di 0
+di 0
+di 0
+di 0
+di 0
+di 1
+di 2
+di 0
+di 0
+di 0
+e
